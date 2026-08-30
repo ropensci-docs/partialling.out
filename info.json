@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "6c1939e6dacc14c8efa9f81153031857b27334de",
+    "author": "marcbosch <mboschmatas@gmail.com>",
+    "time": "2025-10-20T12:33:16Z",
+    "files": 5,
+    "merge": false,
+    "message": "added cran installation\n"
+  },
+  "repo": "https://github.com/ropensci/partialling.out",
+  "pkg": "partialling.out",
+  "time": "2026-08-30T07:14:42Z"
+}
